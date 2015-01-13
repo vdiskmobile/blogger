@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: edgardo.com
+url: http://edgardo.com
+feed: /atom.xml
+author_info: <a href="http://edgardo.com/">edgardo</a>
