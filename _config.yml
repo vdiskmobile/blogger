@@ -10,4 +10,5 @@
 # feed: /atom.xml
 # author_info: <a href="http://edgardo.com/">edgardo</a>
 # 
-baseurl: /blogger
+# baseurl: /blogger
+baseurl: /
