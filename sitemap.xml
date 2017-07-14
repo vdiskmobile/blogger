@@ -2,41 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>//litten.me/photos/ins.js</loc>
-    
-    <lastmod>2016-12-04T09:36:37.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>//litten.me/photos/ins.css</loc>
-    
-    <lastmod>2016-12-04T09:34:13.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>//litten.me/photos/index.html</loc>
-    
-    <lastmod>2016-12-04T09:13:06.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>//litten.me/photos/ins.json</loc>
-    
-    <lastmod>2016-12-04T08:41:47.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>//litten.me/photos/lazyload.min.js</loc>
-    
-    <lastmod>2016-12-04T06:23:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>//litten.me/2015/11/03/nginx-in-fe/</loc>
     
     <lastmod>2016-11-29T15:33:04.000Z</lastmod>
